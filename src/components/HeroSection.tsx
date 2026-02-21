@@ -26,7 +26,7 @@ const HeroSection = () => {
           visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
         }`}
       >
-        <div className="gold-line mx-auto mb-6" />
+        <div className="gold-line mx-auto mb-6 bg-rose-500" />
         <h1 className="font-heading text-4xl md:text-5xl lg:text-7xl text-primary-foreground font-medium leading-tight tracking-tight">
           Elevating Beauty Into Timeless Art
         </h1>
